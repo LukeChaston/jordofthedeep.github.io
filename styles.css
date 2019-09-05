@@ -4,13 +4,33 @@
 	text-align:center;
 	background-size: contain;
 	background-repeat: no-repeat;
+	overflow:auto;
+	
+}
 
+.navContainer {
+	margin:0 auto;
+	width:800px;
+}
+
+.banner {
+	float:left;
+}
+
+.buttonContainer {
+	float:right;
 }
 
 h1 {
    color:white;
    font-size:50px;
    margin:0px;
+}
+
+h2 {
+	color:white;
+	font-size:20px;
+	margin:0px;
 }
 
 button { 
