@@ -10,7 +10,19 @@
 .banner {
 	margin-left:170px;
 	float:left;
+	color:white;
 }
+
+h1 {
+    font-size:50px;
+    margin:0px; 
+}
+
+h2 {
+	font-size:20px;
+	margin:0px;
+}
+
 
 .buttonContainer{
 	width:600px;
@@ -41,26 +53,3 @@ button:hover{
 	background-color:white;
 	color:black;
 }
-
-
-h1 {
-   color:white;
-   font-size:50px;
-   margin:0px;
-}
-
-h2 {
-	color:white;
-	font-size:20px;
-	margin:0px;
-}
-
-
-	
-
-
-
-
-
-
-
