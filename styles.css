@@ -23,10 +23,12 @@ h2 {
 	margin:0px;
 }
 
-.buttonContainer{
-	width:600px;
+ 
+ .buttonContainer{
+	width:500px;
 	overflow:auto;
 	float:right;
+	text-align:center;
 }
 
 .buttonContainer div {
@@ -42,13 +44,18 @@ h2 {
 	border-radius: 12px;
 }
 
+@media only screen and (max-width:680px) {
+.buttonContainer div a {
+	width:500px;
+    text-decoration: none;
+    color: white;}
+}
+
 .buttonContainer div a{
 	padding:30px;
 	text-decoration:none;
 	color: white;
 }
 
-button:hover{
-	background-color:white;
-	color:black;
-}
+
+
