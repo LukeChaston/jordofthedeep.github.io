@@ -1,9 +1,9 @@
 .container {
-	background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2013/04/10/73428/8a208215fcb0f2e7188cbc52d2190531-700.jpg");
+	background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/background-banner-motor.jpg");
 	background-color:#000000;
 	text-align:center;
-	background-size:cover;
-	height:600px;
+	background-size: contain;
+	 background-repeat: no-repeat;
 }
 
 h1 {
@@ -25,3 +25,7 @@ button:hover{
 	background-color:white;
 	color:black;
 }
+
+
+
+https://www.wallpaperup.com/uploads/wallpapers/2013/04/10/73428/8a208215fcb0f2e7188cbc52d2190531-700.jpg
