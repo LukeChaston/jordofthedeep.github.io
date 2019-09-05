@@ -3,12 +3,14 @@
 	background-color:#000000;
 	text-align:center;
 	background-size: contain;
-	 background-repeat: no-repeat;
+	background-repeat: no-repeat;
+
 }
 
 h1 {
    color:white;
    font-size:50px;
+   margin:0px;
 }
 
 button { 
@@ -28,4 +30,7 @@ button:hover{
 
 
 
-https://www.wallpaperup.com/uploads/wallpapers/2013/04/10/73428/8a208215fcb0f2e7188cbc52d2190531-700.jpg
+
+
+
+
