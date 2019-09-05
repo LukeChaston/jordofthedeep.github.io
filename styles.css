@@ -1,0 +1,29 @@
+.container {
+	background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2013/04/10/73428/8a208215fcb0f2e7188cbc52d2190531-700.jpg");
+	background-color:#000000;
+	text-align:center;
+	background-size:cover;
+	height:600px;
+}
+
+h1 {
+   color:white;
+   font-size:50px;
+}
+
+.buttonContainer {
+	padding-top:300px;
+}
+button { 
+	color:white;
+	background-color:transparent;
+	font-size: 20px;
+	width:150px;
+	height:90px;
+	display: inline-block;
+}
+	
+button:hover{
+	background-color:white;
+	color:black;
+}
