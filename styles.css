@@ -5,21 +5,42 @@
 	background-size: contain;
 	background-repeat: no-repeat;
 	overflow:auto;
-	
-}
-
-.navContainer {
-	margin:0 auto;
-	width:800px;
 }
 
 .banner {
+	margin-left:150px;
 	float:left;
 }
 
-.buttonContainer {
+.buttonContainer{
+	width:600px;
+	overflow:auto;
 	float:right;
 }
+
+.buttonContainer div {
+	float:right;
+	width:30%;
+	height:60px;
+	background-color:red;
+	color:white;
+	padding-top:30px;
+	border:2px solid white;
+	background-color:transparent;
+	font-size: 20px;
+	border-radius: 12px;
+}
+
+.buttonContainer div a{
+	padding:30px;
+	text-decoration:none;
+}
+
+button:hover{
+	background-color:white;
+	color:black;
+}
+
 
 h1 {
    color:white;
@@ -33,20 +54,8 @@ h2 {
 	margin:0px;
 }
 
-button { 
-	color:white;
-	background-color:transparent;
-	font-size: 20px;
-	width:150px;
-	height:90px;
-	border-radius: 12px;
-}
 
 	
-button:hover{
-	background-color:white;
-	color:black;
-}
 
 
 
