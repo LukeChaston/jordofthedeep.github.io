@@ -29,6 +29,7 @@ h2 {
 	overflow:auto;
 	float:right;
 	text-align:center;
+	color:white;
 }
 
 .buttonContainer div {
@@ -36,7 +37,6 @@ h2 {
 	width:30%;
 	height:60px;
 	background-color:red;
-	color:white;
 	padding-top:30px;
 	border:2px solid white;
 	background-color:transparent;
@@ -47,14 +47,12 @@ h2 {
 @media only screen and (max-width:680px) {
 .buttonContainer div a {
 	width:500px;
-    text-decoration: none;
-    color: white;}
+    text-decoration: none;}
 }
 
 .buttonContainer div a{
 	padding:30px;
 	text-decoration:none;
-	color: white;
 }
 
 
