@@ -57,10 +57,12 @@ h2 {
 }
 
 .biography {
-	background-image: url("https://images.vector-images.com/clp5/259714/clp2106797.jpg");
-	background-size:contain,cover;
+	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/mCz7hqj/videoblocks-cogs-motion-background-loop-black-white_h85vxur9g_thumbnail-full01.png");
+	background-size:cover;
 	background-color:white;
-	height:600px;
+    background-position: center;
+    background-attachment: fixed;
+	height:700px;
 	background-repeat: no-repeat;
 	overflow:auto;
 }
