@@ -96,4 +96,11 @@ h2 {
 	 margin:0 auto;
 	 float:none;}
 	}
-	
+
+	.portfolio {
+		overflow:auto;
+	}
+
+.grid {
+	float:center;
+}
