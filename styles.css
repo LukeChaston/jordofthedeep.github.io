@@ -69,19 +69,20 @@ h2 {
 
 .photo {
 	background-image: url("http://pcm.um.edu.my/wp-content/uploads/2017/11/empty-avatar-700x480.png");
-	height:300px;
-	width:400px;
+	height:500px;
+	width:500px;
 	color:white;
 	background-size:cover,contain;
 	background-repeat: no-repeat;
 	float:right;
-	margin-right:30px;
+	margin-right:0px;
 }
 
 .about {
 	color:white;
 	float-text:left;
 	margin-left:10px;
+	text-align:center;
 }
 
 
