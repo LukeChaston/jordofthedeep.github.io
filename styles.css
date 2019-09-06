@@ -124,7 +124,15 @@ img {
 
 
 .contact{
+
 	float-text:center;
 	background-color:red;
 	height:200px;
+	background-image: url("https://thumbs.dreamstime.com/b/cogs-abstract-business-background-red-industrial-64013506.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-color:white;
+	height:200px;
+	color:white;
+	text-align:center;
 }
