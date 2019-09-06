@@ -56,5 +56,14 @@ h2 {
 	color:white;
 }
 
+.biography {
+	background-image: url("https://images.vector-images.com/clp5/259714/clp2106797.jpg");
+	background-size:contain,cover;
+	background-color:white;
+	height:600px;
+	background-repeat: no-repeat;
+	overflow:auto;
+}
+
 
 
