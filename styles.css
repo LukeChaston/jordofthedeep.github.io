@@ -96,4 +96,35 @@ h2 {
 	 margin:0 auto;
 	 float:none;}
 	}
+
+.portfolio {
+		overflow:auto;
+		color:white;
+		background-color:#000000;
 	
+	}
+
+img {
+	width:250px;
+	height:150px;
+}
+
+@media only screen and (max-width:900px){
+.grid	.column {
+	  float: left;
+	  width: 50%;
+	}
+}
+
+
+.column {
+  float: left;
+  width: 33.3%;
+}
+
+
+.contact{
+	float-text:center;
+	background-color:red;
+	height:200px;
+}
