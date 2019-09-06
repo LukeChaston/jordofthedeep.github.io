@@ -116,11 +116,15 @@ img {
 	}
 }
 
-h2 {
-	font-size:15px;
-}
+
 .column {
   float: left;
   width: 33.3%;
 }
 
+
+.contact{
+	float-text:center;
+	background-color:red;
+	height:200px;
+}
