@@ -57,7 +57,7 @@ h2 {
 }
 
 .biography {
-	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/mCz7hqj/videoblocks-cogs-motion-background-loop-black-white_h85vxur9g_thumbnail-full01.png");
+	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/mCz7hqj/videoblocks-cogs-motion-background-loop-black-red_ruvlw8acg_thumbnail-full01.png");
 	background-size:cover;
 	background-color:white;
     background-position: center;
@@ -87,6 +87,8 @@ h2 {
 	color:white;
 	float-text:left;
 	margin-left:10px;
+	padding:15px;
+	color:white;
 	text-align:center;}
 	
 @media only screen and (max-width:1180px) {
