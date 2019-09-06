@@ -101,6 +101,7 @@ h2 {
 		overflow:auto;
 		color:white;
 		background-color:#000000;
+	
 	}
 
 img {
@@ -109,12 +110,15 @@ img {
 }
 
 @media only screen and (max-width:900px){
-	.column {
+.grid	.column {
 	  float: left;
 	  width: 50%;
 	}
 }
 
+h2 {
+	font-size:15px;
+}
 .column {
   float: left;
   width: 33.3%;
