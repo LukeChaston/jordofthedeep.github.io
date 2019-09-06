@@ -100,9 +100,22 @@ h2 {
 .portfolio {
 	    background-image:;
 		overflow:auto;
+		color:white;
+		background-color:#000000;
 	}
 
-.grid {
-	
+img {
+	width:250px;
+	height:150px;
 }
 
+
+.column {
+  float: left;
+  width: 33.3%;
+}
+
+.row:after {
+  display: table;
+  clear: both;
+}
