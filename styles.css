@@ -66,25 +66,12 @@ h2 {
 	overflow:auto;
 }
 
-@media only screen and (max-width:900px) {
-	.photo {
-		background-image: url("http://pcm.um.edu.my/wp-content/uploads/2017/11/empty-avatar-700x480.png");
-		height:500px;
-		width:500px;
-		color:white;
-		background-size:cover,contain;
-		background-repeat: no-repeat;
-		float:center;
-		margin-right:0px;}
+@media only screen and (max-width:1180px) {
+	.biography .photo {
+		margin:0 auto;
+		float:none;}
 }
 
-@media only screen and (max-width:900px) {
-	.about {
-		color:white;
-		float-text:center;
-		margin-left:10px;
-		text-align:center;}
-}
 
 .photo {
 	background-image: url("http://pcm.um.edu.my/wp-content/uploads/2017/11/empty-avatar-700x480.png");
@@ -94,11 +81,17 @@ h2 {
 	background-size:cover,contain;
 	background-repeat: no-repeat;
 	float:right;
-	margin-right:0px;
-}
+	margin-right:0px;}
 
 .about {
 	color:white;
 	float-text:left;
 	margin-left:10px;
 	text-align:center;}
+	
+@media only screen and (max-width:1180px) {
+	.biography .photo {
+	 margin:0 auto;
+	 float:none;}
+	}
+	
