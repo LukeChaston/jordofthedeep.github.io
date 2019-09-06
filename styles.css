@@ -97,10 +97,5 @@ h2 {
 	 float:none;}
 	}
 
-	.portfolio {
+.portfolio {
 		overflow:auto;
-	}
-
-.grid {
-	float:center;
-}
