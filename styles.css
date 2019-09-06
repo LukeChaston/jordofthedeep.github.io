@@ -61,10 +61,29 @@ h2 {
 	background-size:cover;
 	background-color:white;
     background-position: center;
-    background-attachment: fixed;
 	height:700px;
 	background-repeat: no-repeat;
 	overflow:auto;
+}
+
+@media only screen and (max-width:900px) {
+	.photo {
+		background-image: url("http://pcm.um.edu.my/wp-content/uploads/2017/11/empty-avatar-700x480.png");
+		height:500px;
+		width:500px;
+		color:white;
+		background-size:cover,contain;
+		background-repeat: no-repeat;
+		float:center;
+		margin-right:0px;}
+}
+
+@media only screen and (max-width:900px) {
+	.about {
+		color:white;
+		float-text:center;
+		margin-left:10px;
+		text-align:center;}
 }
 
 .photo {
@@ -82,8 +101,4 @@ h2 {
 	color:white;
 	float-text:left;
 	margin-left:10px;
-	text-align:center;
-}
-
-
-
+	text-align:center;}
