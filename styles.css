@@ -74,11 +74,14 @@ h2 {
 	color:white;
 	background-size:cover,contain;
 	background-repeat: no-repeat;
+	float:right;
+	margin-right:30px;
 }
 
 .about {
 	color:white;
 	float-text:left;
+	margin-left:10px;
 }
 
 
