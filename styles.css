@@ -120,7 +120,3 @@ img {
   width: 33.3%;
 }
 
-.row:after {
-  display: table;
-  clear: both;
-}
