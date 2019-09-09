@@ -22,7 +22,7 @@ body {
 
 h1 {
     font-size:50px;
-    margin:0px; 
+	margin:0px;
 }
 
 h2 {
@@ -31,9 +31,8 @@ h2 {
 }
 
  
- .buttonContainer{
+ .buttonContainer {
 	width:500px;
-	overflow:auto;
 	float:right;
 	text-align:center;
 	text-decoration:none;
@@ -52,7 +51,6 @@ h2 {
 
 
 .buttonContainer div a {
-	padding:30px;
 	text-decoration:none;
 	
 }
@@ -62,27 +60,33 @@ h2 {
 	background-size:cover;
 	background-color:white;
     background-position: center;
-	height:700px;
 	background-repeat: no-repeat;
 	overflow:auto;
 }
 
 
 .about {
-	width:1300px;
-	margin:0 auto;
 	float-text:left;
-	margin-left:10px;
 	padding:15px;
 	color:white;
 	text-align:center;
-          }
+}
+		  
+.containerBox {
+	width:1300px;
+	margin:0 auto;
+	overflow:auto;
+}
+
+.column div {
+	text-align:center;
+}
 	
 
 .portfolio {
-	overflow:auto;
 	background-color:#000000;
 	
+	margin:0 auto;
 	}
 
 img {
