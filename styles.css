@@ -1,5 +1,9 @@
+* {
+	box-sizing: border-box;
+}
+
 .container {
-	background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/background-banner-motor.jpg");
+	background-image: url("background-banner-motor.jpg");
 	background-color:#000000;
 	text-align:center;
 	background-size: contain;
@@ -36,7 +40,6 @@ h2 {
 	float:right;
 	width:30%;
 	height:60px;
-	background-color:red;
 	padding-top:30px;
 	border:2px solid white;
 	background-color:transparent;
@@ -44,11 +47,6 @@ h2 {
 	border-radius: 12px;
 }
 
-@media only screen and (max-width:680px) {
-.buttonContainer div a {
-	width:500px;
-    text-decoration: none;}
-}
 
 .buttonContainer div a{
 	padding:30px;
@@ -57,7 +55,7 @@ h2 {
 }
 
 .biography {
-	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/mCz7hqj/videoblocks-cogs-motion-background-loop-black-red_ruvlw8acg_thumbnail-full01.png");
+	background-image: url("videoblocks-cogs-motion-background-loop-black-red_ruvlw8acg_thumbnail-full01.png");
 	background-size:cover;
 	background-color:white;
     background-position: center;
@@ -66,36 +64,18 @@ h2 {
 	overflow:auto;
 }
 
-@media only screen and (max-width:1180px) {
-	.biography .photo {
-		margin:0 auto;
-		float:none;}
-}
-
-
-.photo {
-	background-image: url("http://pcm.um.edu.my/wp-content/uploads/2017/11/empty-avatar-700x480.png");
-	height:500px;
-	width:500px;
-	color:white;
-	background-size:cover,contain;
-	background-repeat: no-repeat;
-	float:right;
-	margin-right:0px;}
 
 .about {
 	color:white;
+	width:1300px;
+	margin:0 auto;
 	float-text:left;
 	margin-left:10px;
 	padding:15px;
 	color:white;
-	text-align:center;}
+	text-align:center;
+          }
 	
-@media only screen and (max-width:1180px) {
-	.biography .photo {
-	 margin:0 auto;
-	 float:none;}
-	}
 
 .portfolio {
 		overflow:auto;
@@ -109,16 +89,10 @@ img {
 	height:150px;
 }
 
-@media only screen and (max-width:900px){
-.grid	.column {
-	  float: left;
-	  width: 50%;
-	}
-}
-
-
 .column {
   float: left;
+  width:1300px;
+  margin: 0 auto;
   width: 33.3%;
 }
 
@@ -128,11 +102,25 @@ img {
 	float-text:center;
 	background-color:red;
 	height:200px;
-	background-image: url("https://thumbs.dreamstime.com/b/cogs-abstract-business-background-red-industrial-64013506.jpg");
+	background-image: url("cogs-abstract-business-background-red-industrial-64013506.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-color:white;
 	height:200px;
 	color:white;
 	text-align:center;
+}
+
+@media only screen and (max-width:680px) {
+.buttonContainer div a {
+	width:500px;
+    text-decoration: none;
+       }
+}
+
+@media only screen and (max-width:900px){
+.grid	.column {
+	  float: left;
+	  width: 50%;
+	}
 }
