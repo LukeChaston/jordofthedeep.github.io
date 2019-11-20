@@ -229,13 +229,12 @@ img {
 }
 
 .contact{
-
+   background-color:black;
 	float:center;
 	height:200px;
-	background-color:white;
 	text-align:center;
 }
 
 #contactMe{
-	color: black;
+	color: white;
 }
