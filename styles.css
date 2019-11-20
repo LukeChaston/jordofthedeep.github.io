@@ -7,16 +7,17 @@ body {
 }
 
 .container {
-	background-image: url("background-banner-motor.jpg");
+	background-image: url("Bird-sky.jpg");
 	background-color:#000000;
 	text-align:center;
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 	overflow:auto;
+	height: 800px
 }
 
 .banner {
-	margin-left:170px;
+	margin-left:10px;
 	float:left;
 }
 
@@ -36,40 +37,153 @@ h2 {
 	float:right;
 	text-align:center;
 	text-decoration:none;
+    margin-top: 0px;
+	 margin-right: 0px;
 }
 
 .buttonContainer div {
 	float:right;
 	width:30%;
-	height:60px;
+	height:80px;
 	padding-top:30px;
-	border:2px solid white;
-	background-color:transparent;
-	font-size: 15px;
-	border-radius: 12px;
 }
 
+a {
+	color: white;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
 
 .buttonContainer div a {
 	text-decoration:none;
-	
+
 }
 
+#button-1 {
+	overflow: hidden;
+	cursor: pointer;
+	padding-right: 10px;
+	border: 2px solid #BFC0C0;
+    position:relative;
+}
+
+#button-1 a {
+	transition: all .35s ease-Out;
+	position:relative;
+}
+
+#slide1 {
+	position:absolute;
+	width: 100%;
+	height: 100%;
+	left: -200px;
+	background: black;
+	transition: all .35s ease-Out;
+	bottom: 0;
+}
+
+#button-1:hover #slide {
+	left: 0;
+}
+
+#button-1:hover a {
+	color: black;
+}
+
+#button-2 {
+	position:relative;
+	overflow: hidden;
+	cursor: pointer;
+	padding-right: 10px;
+	border: 2px solid #BFC0C0;
+}
+
+#button-2 a {
+	position:relative;
+	transition: all .35s ease-Out;
+}
+
+#slide2 {
+	position:absolute;
+	width: 100%;
+	height: 100%;
+	left: -200px;
+	background: black;
+	transition: all .35s ease-Out;
+	bottom: 0;
+}
+
+#button-2:hover #slide {
+	left: 0;
+}
+
+#button-2:hover a {
+	color: black;
+}
+
+#button-3 {
+	position:relative;
+	overflow: hidden;
+	cursor: pointer;
+	border: 2px solid #BFC0C0;
+}
+
+#button-3 a {
+	position:relative;
+	transition: all .35s ease-Out;
+}
+
+#slide3 {
+	position:absolute;
+	width: 100%;
+	height: 100%;
+	left: -200px;
+	background: black;
+	transition: all .35s ease-Out;
+	bottom: 0;
+}
+
+#button-3:hover #slide {
+	left: 0;
+}
+
+#button-3:hover a {
+	color: black;
+}
+
+
+
 .biography {
-	background-image: url("videoblocks-cogs-motion-background-loop-black-red_ruvlw8acg_thumbnail-full01.png");
-	background-size:cover;
-	background-color:white;
-    background-position: center;
-	background-repeat: no-repeat;
+	background-image: url("forest-night.jpg");
+	background-size: cover;
 	overflow:auto;
+	height:800px;
 }
 
 
 .about {
-	float-text:left;
 	padding:15px;
 	color:white;
-	text-align:center;
+	float:left;
+	width: 50%;
+	margin-left: 100px;
+	margin-top:50px;
+}
+
+
+#photo {
+	height:500px;
+	width:500px;
+	background-image: url("headshot.jpg");
+	background-size: cover;
+    float:right;
+	border-radius: 50%;
+	margin-right: 100px;
+	margin-top:50px;
+}
+
+@media only screen and (max-width:) {
+	
 }
 		  
 .containerBox {
@@ -81,12 +195,17 @@ h2 {
 .column div {
 	text-align:center;
 }
-	
+
+#portfolioHeader{
+	text-align: center;
+}
 
 .portfolio {
 	background-color:#000000;
-	
+	background-size:cover;
+	background-repeat: no-repeat;
 	margin:0 auto;
+	height:800px;
 	}
 
 img {
@@ -95,36 +214,28 @@ img {
 }
 
 .column {
-  float: left;
-  width:1300px;
+  float:left;
   margin: 0 auto;
-  width: 33.3%;
+  width: 50%;
+	border: 2px solid #BFC0C0;
+	height:300px;
 }
 
+@media only screen and (max-width: 768px) {
+
+	[class*="containerBox"] {
+		width: 600px;
+	}
+}
 
 .contact{
 
-	float-text:center;
-	background-color:red;
+	float:center;
 	height:200px;
-	background-image: url("cogs-abstract-business-background-red-industrial-64013506.jpg");
-	background-size:cover;
-	background-repeat:no-repeat;
 	background-color:white;
-	height:200px;
 	text-align:center;
 }
 
-@media only screen and (max-width:680px) {
-.buttonContainer div a {
-	width:500px;
-    text-decoration: none;
-       }
-}
-
-@media only screen and (max-width:900px){
-.grid	.column {
-	  float: left;
-	  width: 50%;
-	}
+#contactMe{
+	color: black;
 }
