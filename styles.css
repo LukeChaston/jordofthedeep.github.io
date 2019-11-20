@@ -1,0 +1,130 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color:white;
+}
+
+.container {
+	background-image: url("background-banner-motor.jpg");
+	background-color:#000000;
+	text-align:center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	overflow:auto;
+}
+
+.banner {
+	margin-left:170px;
+	float:left;
+}
+
+h1 {
+    font-size:50px;
+	margin:0px;
+}
+
+h2 {
+	font-size:20px;
+	margin:0px;
+}
+
+ 
+ .buttonContainer {
+	width:500px;
+	float:right;
+	text-align:center;
+	text-decoration:none;
+}
+
+.buttonContainer div {
+	float:right;
+	width:30%;
+	height:60px;
+	padding-top:30px;
+	border:2px solid white;
+	background-color:transparent;
+	font-size: 15px;
+	border-radius: 12px;
+}
+
+
+.buttonContainer div a {
+	text-decoration:none;
+	
+}
+
+.biography {
+	background-image: url("videoblocks-cogs-motion-background-loop-black-red_ruvlw8acg_thumbnail-full01.png");
+	background-size:cover;
+	background-color:white;
+    background-position: center;
+	background-repeat: no-repeat;
+	overflow:auto;
+}
+
+
+.about {
+	float-text:left;
+	padding:15px;
+	color:white;
+	text-align:center;
+}
+		  
+.containerBox {
+	width:1300px;
+	margin:0 auto;
+	overflow:auto;
+}
+
+.column div {
+	text-align:center;
+}
+	
+
+.portfolio {
+	background-color:#000000;
+	
+	margin:0 auto;
+	}
+
+img {
+	width:250px;
+	height:150px;
+}
+
+.column {
+  float: left;
+  width:1300px;
+  margin: 0 auto;
+  width: 33.3%;
+}
+
+
+.contact{
+
+	float-text:center;
+	background-color:red;
+	height:200px;
+	background-image: url("cogs-abstract-business-background-red-industrial-64013506.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-color:white;
+	height:200px;
+	text-align:center;
+}
+
+@media only screen and (max-width:680px) {
+.buttonContainer div a {
+	width:500px;
+    text-decoration: none;
+       }
+}
+
+@media only screen and (max-width:900px){
+.grid	.column {
+	  float: left;
+	  width: 50%;
+	}
+}
