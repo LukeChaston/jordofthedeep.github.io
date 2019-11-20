@@ -1,0 +1,8 @@
+Broken Access Control
+
+-Remember the exercise where we were introduced to headers last week? I'm sure that at least some of you (as I did) simply used the url bar to skip between the pages at some point. 
+
+-In essence, that's exactly what Broken Access Control is. Its a way for hackers to bypass logins and get to different pages/accounts, as though they were an administrator, simply by changing part of the url for instance, or .
+
+-The most effective means of fighting this ina finished product is to use authorization tokens. These are a way of verifying that a user is indeed who they say they are before they are granted access. In don't know how many of you use steam, but if you're logged out of your account for a while and then try to log back in using a different computer they will send a code to your email and ask you to give it to them. This makes it far harder for a respective hacker to gain access to your account.
+

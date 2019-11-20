@@ -1,0 +1,127 @@
+https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/mCz7hqj/videoblocks-cogs-motion-background-loop-black-white_h85vxur9g_thumbnail-full01.png
+
+.row:after {
+  display: table;
+  clear: both;
+}
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Tyranny of the Fan	</title>
+	<atom:link href="https://unwinnable.com/2015/03/09/the-tyranny-of-the-fan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://unwinnable.com/2015/03/09/the-tyranny-of-the-fan/</link>
+	<description>Videogames &#38; Geek Culture</description>
+	<lastBuildDate>
+	Sun, 08 Sep 2019 10:02:09 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.2</generator>
+			<item>
+				<title>
+				By: Stu Horvath				</title>
+				<link>https://unwinnable.com/2015/03/09/the-tyranny-of-the-fan/comment-page-1/#comment-71234</link>
+		<dc:creator><![CDATA[Stu Horvath]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2015 18:23:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.unwinnable.com/?p=52764#comment-71234</guid>
+					<description><![CDATA[Thanks for the awesome comment! It adds to the things I am still thinking about regarding fans.
+
+I do hope you didn&#039;t see the article as a call for cynicism. That&#039;d just be depressing. I am very much in favor of people loving things in the way you describe non-evangelical Star Wars folks. Love is good. If I am a fan of anything, I am a fan of love.
+
+
+I think perhaps I did get too hung up on the idea of the word &quot;Fan.&quot; We do need something to call folks who like things. There&#039;s an alternate derivation of Fan that claims it is short for fancy. How about fanciers?]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the awesome comment! It adds to the things I am still thinking about regarding fans.</p>
+<p>I do hope you didn&#8217;t see the article as a call for cynicism. That&#8217;d just be depressing. I am very much in favor of people loving things in the way you describe non-evangelical Star Wars folks. Love is good. If I am a fan of anything, I am a fan of love.</p>
+<p>I think perhaps I did get too hung up on the idea of the word &#8220;Fan.&#8221; We do need something to call folks who like things. There&#8217;s an alternate derivation of Fan that claims it is short for fancy. How about fanciers?</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Stu Horvath				</title>
+				<link>https://unwinnable.com/2015/03/09/the-tyranny-of-the-fan/comment-page-1/#comment-71233</link>
+		<dc:creator><![CDATA[Stu Horvath]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2015 18:17:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.unwinnable.com/?p=52764#comment-71233</guid>
+					<description><![CDATA[Thanks for the great comment! 
+
+Interesting to here from the context of someone trying to self-apply the word. I have a lot more thinking do on the subject, but wanted to hit a quick point in response to your thoughts: I absolutely believe people should enjoy things to the extent that feels natural. What worries me is that, thanks to the internet or perhaps some other social trigger, fans are being enabled to enjoy things beyond what feels natural, to enjoy in extremes.]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the great comment! </p>
+<p>Interesting to here from the context of someone trying to self-apply the word. I have a lot more thinking do on the subject, but wanted to hit a quick point in response to your thoughts: I absolutely believe people should enjoy things to the extent that feels natural. What worries me is that, thanks to the internet or perhaps some other social trigger, fans are being enabled to enjoy things beyond what feels natural, to enjoy in extremes.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Jamie Patton				</title>
+				<link>https://unwinnable.com/2015/03/09/the-tyranny-of-the-fan/comment-page-1/#comment-71232</link>
+		<dc:creator><![CDATA[Jamie Patton]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2015 14:10:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.unwinnable.com/?p=52764#comment-71232</guid>
+					<description><![CDATA[Interesting article. Like Moribund Cadaver, I&#039;m interested in the distinction between liking something and being a fan. 
+
+On the one hand, &quot;fan&quot; can be a very negative term. There&#039;s this idea that fans are weird, a little unhinged, and can become psychotic in extreme cases. Think of the news stories about artists being killed by obsessive fans who fell in love with them. Or think about Trekkies: if you say to someone &quot;I like Star Trek&quot;, they might respond with &quot;Uh, you&#039;re not one of those Trekkies, are you?&quot; And then you&#039;ll laugh nervously and say &quot;Uh, no, I haven&#039;t learned Klingon or anything.&quot; Which seems odd, because why shouldn&#039;t you enjoy this show to whatever extent feels natural to you?
+
+And on the other hand, &quot;fan&quot; can be a badge of pride. Think of those people who think that, to be a real fan, you must have an encyclopaedic knowledge of every episode ever, who will pop-quiz you. Maybe you just started watching Dr Who and you think it&#039;s great, so you call yourself a fan - and then a &quot;real fan&quot; asks &quot;Ah, but what&#039;s your opinion of that one episode in 1974 where the Doctor does that one thing that only I (and other worthy fans) know about?&quot; And yet, even if you don&#039;t have the thorough knowledge that this jerk has, you still feel that you&#039;re a fan.
+
+This is why I find it so difficult to pin down questions like &quot;Am I a fan of Star Trek&quot; or whatever, because the word &quot;fan&quot; isn&#039;t exactly a fixed signifier. It can be deployed for positive or negative connotations, and whenever it&#039;s used it&#039;s probably going to be in dispute. By using the word &quot;fan&quot;, someone is not really trying to establish the truth of fandom, but rather use the word in a little battle with someone else to argue whether they are/are not a member of the priesthood, whether they are/are not insane and obsessive, to restrict access or credibility or any of the other things that swirl around these media objects. It feels like less a useful term than a verbal weapon.
+
+Sorry, bit of a tangent there.]]></description>
+		<content:encoded><![CDATA[<p>Interesting article. Like Moribund Cadaver, I&#8217;m interested in the distinction between liking something and being a fan. </p>
+<p>On the one hand, &#8220;fan&#8221; can be a very negative term. There&#8217;s this idea that fans are weird, a little unhinged, and can become psychotic in extreme cases. Think of the news stories about artists being killed by obsessive fans who fell in love with them. Or think about Trekkies: if you say to someone &#8220;I like Star Trek&#8221;, they might respond with &#8220;Uh, you&#8217;re not one of those Trekkies, are you?&#8221; And then you&#8217;ll laugh nervously and say &#8220;Uh, no, I haven&#8217;t learned Klingon or anything.&#8221; Which seems odd, because why shouldn&#8217;t you enjoy this show to whatever extent feels natural to you?</p>
+<p>And on the other hand, &#8220;fan&#8221; can be a badge of pride. Think of those people who think that, to be a real fan, you must have an encyclopaedic knowledge of every episode ever, who will pop-quiz you. Maybe you just started watching Dr Who and you think it&#8217;s great, so you call yourself a fan &#8211; and then a &#8220;real fan&#8221; asks &#8220;Ah, but what&#8217;s your opinion of that one episode in 1974 where the Doctor does that one thing that only I (and other worthy fans) know about?&#8221; And yet, even if you don&#8217;t have the thorough knowledge that this jerk has, you still feel that you&#8217;re a fan.</p>
+<p>This is why I find it so difficult to pin down questions like &#8220;Am I a fan of Star Trek&#8221; or whatever, because the word &#8220;fan&#8221; isn&#8217;t exactly a fixed signifier. It can be deployed for positive or negative connotations, and whenever it&#8217;s used it&#8217;s probably going to be in dispute. By using the word &#8220;fan&#8221;, someone is not really trying to establish the truth of fandom, but rather use the word in a little battle with someone else to argue whether they are/are not a member of the priesthood, whether they are/are not insane and obsessive, to restrict access or credibility or any of the other things that swirl around these media objects. It feels like less a useful term than a verbal weapon.</p>
+<p>Sorry, bit of a tangent there.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: The Sunday Papers &#124; Rock, Paper, Shotgun				</title>
+				<link>https://unwinnable.com/2015/03/09/the-tyranny-of-the-fan/comment-page-1/#comment-71231</link>
+		<dc:creator><![CDATA[The Sunday Papers &#124; Rock, Paper, Shotgun]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2015 13:01:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.unwinnable.com/?p=52764#comment-71231</guid>
+					<description><![CDATA[[&#8230;] on fandom and how it has always warped perception and behaviour. I liked the Phantom Menace too, at first, though that was as much youth as anything [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] on fandom and how it has always warped perception and behaviour. I liked the Phantom Menace too, at first, though that was as much youth as anything [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Moribund Cadaver				</title>
+				<link>https://unwinnable.com/2015/03/09/the-tyranny-of-the-fan/comment-page-1/#comment-71228</link>
+		<dc:creator><![CDATA[Moribund Cadaver]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2015 20:10:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.unwinnable.com/?p=52764#comment-71228</guid>
+					<description><![CDATA[This makes me wonder about the difference between a fan and an enthusiast. I have met people that are experts on all things Star Wars, yet they do not seem consumed by it.  They don&#039;t care who likes which bit of Star Wars. They don&#039;t evangelize. They don&#039;t feel a compulsive need to identify with it, or project themselves into it, or put Superman and Batman on the Death Star. Yet they know everything everything about it, and have great appreciation for it.
+
+
+Likewise, I have met those who are enthusiasts of a particular video game franchise and quite expert on everything related to it (including actually playing the games). Yet they don&#039;t fetishize any one entry in the series, they don&#039;t damn the creators if a new entry is made and is in some way a fundamental departure from what the series is known for. Instead, they&#039;re really curious to see where the series goes next.
+
+
+There must be some critical inoculation against fannish obsession that the enthusiast can self-administer. I don&#039;t think cynicism is the antidote to fandom. I don&#039;t think refusing to let yourself like something &quot;too much&quot; is the way to go. There are ways to immerse one&#039;s self i a thing without drowning. Call it a psychological breathing technique. Maintaining perspective and always knowing how far one is from the surface.
+
+
+Maybe a clue is found in those aficionados I have known. One thing that connects them is perspective; they are mature enough to be confident. They may indulge in love of a thing without requiring that thing provide an identity; they are not co-dependent. To draw an analogy, a child may fixate on fairy tales because they do not wish to grow up. At the same time, to echo C.S. Lewis, an adult may confidently enjoy the same fairy tales without guilt because they are an adult, and know who they are.
+
+
+It is perhaps inherent in the dark side of fandom to create a Neverland, where fans are encouraged to retreat from the world and never grow up.]]></description>
+		<content:encoded><![CDATA[<p>This makes me wonder about the difference between a fan and an enthusiast. I have met people that are experts on all things Star Wars, yet they do not seem consumed by it.  They don&#8217;t care who likes which bit of Star Wars. They don&#8217;t evangelize. They don&#8217;t feel a compulsive need to identify with it, or project themselves into it, or put Superman and Batman on the Death Star. Yet they know everything everything about it, and have great appreciation for it.</p>
+<p>Likewise, I have met those who are enthusiasts of a particular video game franchise and quite expert on everything related to it (including actually playing the games). Yet they don&#8217;t fetishize any one entry in the series, they don&#8217;t damn the creators if a new entry is made and is in some way a fundamental departure from what the series is known for. Instead, they&#8217;re really curious to see where the series goes next.</p>
+<p>There must be some critical inoculation against fannish obsession that the enthusiast can self-administer. I don&#8217;t think cynicism is the antidote to fandom. I don&#8217;t think refusing to let yourself like something &#8220;too much&#8221; is the way to go. There are ways to immerse one&#8217;s self i a thing without drowning. Call it a psychological breathing technique. Maintaining perspective and always knowing how far one is from the surface.</p>
+<p>Maybe a clue is found in those aficionados I have known. One thing that connects them is perspective; they are mature enough to be confident. They may indulge in love of a thing without requiring that thing provide an identity; they are not co-dependent. To draw an analogy, a child may fixate on fairy tales because they do not wish to grow up. At the same time, to echo C.S. Lewis, an adult may confidently enjoy the same fairy tales without guilt because they are an adult, and know who they are.</p>
+<p>It is perhaps inherent in the dark side of fandom to create a Neverland, where fans are encouraged to retreat from the world and never grow up.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
+
+			    <div class="photo">
+				<p>Where the photo will go.</p>
+			    </div>
